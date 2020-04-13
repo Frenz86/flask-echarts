@@ -1,0 +1,9 @@
+## for windows --error c++ c14
+
+https://www.scivision.co/python-windows-visual-c-14-required/
+istall buildtools.exe
+
+
+
+follow also this guide
+https://pyecharts.org/#/zh-cn/web_flask

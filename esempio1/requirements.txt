@@ -1,0 +1,3 @@
+Flask==1.1.2
+pyecharts==1.7.1
+pyecharts-javascripthon==0.0.6
